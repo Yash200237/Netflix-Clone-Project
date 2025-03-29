@@ -1,3 +1,2 @@
 # Netflix-Clone-Project
-
-start again at - 9.24.21
+Start again at - 10.01.50
