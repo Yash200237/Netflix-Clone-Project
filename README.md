@@ -1,2 +1,3 @@
 # Netflix-Clone-Project
-Start again at - 10.01.50
+
+Start again at - 10.48.45
