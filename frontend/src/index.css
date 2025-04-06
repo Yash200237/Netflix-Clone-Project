@@ -18,3 +18,14 @@
         background-position: 1000px 0;
     }
 }
+
+/* Add this to your global CSS file */
+.scrollbar-hide::-webkit-scrollbar {
+    display: none; /* For Chrome, Safari, and Edge */
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none; /* For Internet Explorer and Edge */
+    scrollbar-width: none; /* For Firefox */
+  }
+
+  

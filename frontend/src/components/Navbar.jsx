@@ -1,8 +1,7 @@
 import { useState } from "react"
 import { Link } from "react-router-dom"
-import { Search } from "lucide-react"
 import { useAuthStore } from "../store/authUser";
-import { LogOut, Menu } from "lucide-react"
+import { LogOut, Menu,Search } from "lucide-react"
 import { useContentStore } from "../store/content";
 
 const Navbar = () => {
@@ -46,7 +45,7 @@ const Navbar = () => {
         <div className='flex gap-2 items-center z-50'>
 
             <Link to={'/search'}>
-                <search className="size-6 cursor-pointer"/>
+                <Search className="size-6 cursor-pointer"/>
             </Link>
             <img src={user.image} alt="Avatar" className="h-8 rounded cursor-pointer"/>
             <LogOut className='size-6 cursor-pointer' onClick={logout}/>
@@ -78,7 +77,7 @@ const Navbar = () => {
 
                 </Link>
 
-                <Link to={"/search"}
+                <Link to={"/history"}
                     className='block hover:underline p-2'
                     onClick={toggleMobileMenu}
                 >
