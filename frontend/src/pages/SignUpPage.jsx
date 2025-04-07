@@ -11,7 +11,7 @@ const SignUpPage = () => {
 	const [username, setUsername] = useState("");
 	const [password, setPassword] = useState("");
 
-	const {signup } = useAuthStore()
+	const {signup , isSigninUp } = useAuthStore()
 
 	const handleSignUp = (e) => {
 		e.preventDefault();
@@ -74,8 +74,12 @@ const SignUpPage = () => {
 
                         <button
 							className='w-full py-2 bg-red-600 text-white font-semibold rounded-md
-							hover:bg-red-700'>
-                                sign up
+							hover:bg-red-700'
+							
+							disabled={isSigninUp}
+							
+							>
+                                {isSigninUp ?"Loading..." : "Sign Up"}
 						</button>
 					
 					</form>
