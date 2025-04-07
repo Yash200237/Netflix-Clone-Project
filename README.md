@@ -72,4 +72,13 @@ You can access the live version of the app here:
 
 
 
+![Screenshot 2025-04-07 234429](https://github.com/user-attachments/assets/5768db21-061f-476d-aae3-b100086f8972)
+
+![Screenshot 2025-04-07 234453](https://github.com/user-attachments/assets/47017511-27d1-4bd4-9ba3-3df96271031b)
+
+![Screenshot 2025-04-07 234507](https://github.com/user-attachments/assets/88c336c8-cb46-41ed-afd5-804745a78ac8)
+
+![Screenshot 2025-04-07 234541](https://github.com/user-attachments/assets/9b9c51f9-cf54-4c15-9368-85c64adb9759)
+
+![Screenshot 2025-04-07 234554](https://github.com/user-attachments/assets/3b36f12f-23d1-4a45-a6a8-ddaeb07b0e05)
 
