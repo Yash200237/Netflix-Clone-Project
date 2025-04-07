@@ -1,4 +1,4 @@
-# 🎬 Netflix Clone Project
+![image](https://github.com/user-attachments/assets/19b2e136-9144-42db-b38b-084e2e688469)# 🎬 Netflix Clone Project
 
 A full-stack Netflix clone application built with **React**, **Node.js**, **Express**, and **MongoDB**. This project replicates the core functionalities of Netflix, including user authentication, movie/TV show search, and a watch page.
 
@@ -72,7 +72,7 @@ You can access the live version of the app here:
 
 
 
-![Screenshot 2025-04-07 234429](https://github.com/user-attachments/assets/5768db21-061f-476d-aae3-b100086f8972)
+![image](https://github.com/user-attachments/assets/612c8711-f551-4338-895a-2e248490e1b7)
 
 ![Screenshot 2025-04-07 234453](https://github.com/user-attachments/assets/47017511-27d1-4bd4-9ba3-3df96271031b)
 
