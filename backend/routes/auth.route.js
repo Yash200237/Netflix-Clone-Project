@@ -1,6 +1,11 @@
 import express from "express";
-import { authCheck , Signup, Login, Logout } from "../controllers/auth.controller.js";
-import { protectRoute } from "../middleware/protectRoute.js";
+import {
+  authCheck,
+  Signup,
+  Login,
+  Logout,
+} from "../controllers/auth.controller.js";
+import { protectRoute } from "../Middleware/protectRoute.js";
 
 const router = express.Router();
 
@@ -10,6 +15,6 @@ router.post("/login", Login);
 
 router.post("/logout", Logout);
 
-router.get("/authCheck",protectRoute ,authCheck);
+router.get("/authCheck", protectRoute, authCheck);
 
 export default router;
