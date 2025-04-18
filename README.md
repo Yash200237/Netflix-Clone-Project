@@ -66,8 +66,10 @@ npm run start
 The app should now be running on http://localhost:5000 (or the port you specified in .env).
 
 ##  Hosted Version
-You can access the live version of the app here:
+You can access the demo of the app here:
+🔗 https://dms.uom.lk/s/JdPqL7QjnNjeSmo
 
+You can access the live version of the app here:
 🔗 https://netflix-clone-project-2.onrender.com/
 
 
